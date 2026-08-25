@@ -14,8 +14,13 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
