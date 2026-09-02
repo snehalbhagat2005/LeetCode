@@ -24,6 +24,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
@@ -33,5 +34,6 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
