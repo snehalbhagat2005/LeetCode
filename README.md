@@ -27,6 +27,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,12 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 <!---LeetCode Topics End-->
