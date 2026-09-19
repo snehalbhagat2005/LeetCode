@@ -11,6 +11,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,8 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
