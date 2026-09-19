@@ -10,6 +10,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -45,4 +47,8 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
