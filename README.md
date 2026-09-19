@@ -11,11 +11,13 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Newton's Method
@@ -26,6 +28,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -35,6 +38,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -45,6 +49,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -57,5 +62,6 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
