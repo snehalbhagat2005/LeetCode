@@ -27,6 +27,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -62,6 +63,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
