@@ -39,6 +39,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/snehalbhagat2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -51,6 +52,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/snehalbhagat2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -73,6 +75,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/snehalbhagat2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/snehalbhagat2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
