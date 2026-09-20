@@ -40,6 +40,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/snehalbhagat2005/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -66,9 +68,11 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | ------- | ------- |
 | [0136-single-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehalbhagat2005/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/snehalbhagat2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
