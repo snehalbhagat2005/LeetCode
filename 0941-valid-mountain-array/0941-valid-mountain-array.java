@@ -24,8 +24,13 @@ class Solution {
             peak++;
         }
         
-
-        return peak == n - 1;
+        boolean isEnd=true;
+        if(peak == n-1){
+            isEnd=true;
+        }else{
+            isEnd=false;
+        }
+        return isEnd;
 
         // int start=1;
         // int end=n-2;
