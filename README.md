@@ -33,6 +33,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/snehalbhagat2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
