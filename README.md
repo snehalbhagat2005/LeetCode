@@ -9,6 +9,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/snehalbhagat2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/snehalbhagat2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -27,6 +28,7 @@ profile: https://leetcode.com/u/LeetForSnehal/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/snehalbhagat2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/snehalbhagat2005/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/snehalbhagat2005/LeetCode/tree/main/0268-missing-number/) | Easy |
