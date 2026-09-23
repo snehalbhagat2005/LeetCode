@@ -83,4 +83,8 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | [0242-valid-anagram](https://github.com/snehalbhagat2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/snehalbhagat2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/snehalbhagat2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/snehalbhagat2005/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
