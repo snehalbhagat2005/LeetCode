@@ -87,5 +87,6 @@ profile: https://leetcode.com/u/LeetForSnehal/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/snehalbhagat2005/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/snehalbhagat2005/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/snehalbhagat2005/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
